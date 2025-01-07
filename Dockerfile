@@ -1,3 +1,3 @@
-ARG version=3.0
+ARG version=latest
 
 FROM influxdb:${version}
